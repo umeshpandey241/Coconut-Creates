@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Coconut Planter (Human Design)",
+      "price": 350,
+      "quantity": 24,
+      "description": "Bring life to your space with this handcrafted human-shaped coconut shell planter — perfect for succulents and small indoor plants",
+      "image": "/images/Human-planter.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Coconut Wind Chimes",
+      "price": 200,
+      "quantity": 24,
+      "description": "Let soothing natural tones fill your home with these eco-friendly wind chimes made from polished coconut shells.",
+      "image": "/images/wind chime.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Coconut Planter (Giraffe Design)",
+      "price": 350,
+      "quantity": 24,
+      "description": "Add a playful touch to your décor with this unique giraffe-themed coconut planter — a charming fusion of nature and art.",
+      "image": "/images/Giragge planter.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Coconut Shell Doop Vessel (Shivling Design)",
+      "price": 350,
+      "quantity": 24,
+      "description": "A spiritual addition to your space, this coconut shell Shivling holder is ideal for incense and pooja setups.",
+      "image": "/images/Shivling-doop.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Coconut Shell Candle",
+      "price": 350,
+      "quantity": 24,
+      "description": "Set the mood naturally — this aromatic candle in a rustic coconut shell brings warmth and a tropical vibe to any room.",
+      "image": "/images/candle.webp"
+    },
+    {
+      "id": "6",
+      "name": "Coconut Shell (Shivling Design)",
+      "price": 499,
+      "quantity": 24,
+      "description": "Handcrafted coconut shell with Shivling design – a perfect blend of spirituality and rustic charm for your home décor or gifting needs.",
+      "image": "/images/coconut-shell-shivling.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Coconut Shell Keychain",
+      "price": 60,
+      "quantity": 24,
+      "description": "Handcrafted coconut shell keychain with Shivling design — lightweight, durable, and full of spiritual charm.",
+      "image": "/images/coconut-keychain.jpeg"
+    }
+  ]
+}
